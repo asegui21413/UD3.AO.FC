@@ -1,2 +1,18 @@
 # UD3.AO.FC
-Estructura de carpetes per a documents d'ofimàtica (Ubuntu / Windows)
+
+Repositori per a documents d'ofimàtica creats amb diferents suite office.
+
+## Estructura de carpetes
+
+```
+UD3.AO.FC/
+├── Ubuntu/
+│   ├── LibreOffice/
+│   └── WPS Office/
+└── Windows/
+    ├── Microsoft Office/
+    ├── WPS-Office/
+    └── OpenOffice/
+```
+
+Els documents creats a cada sistema/aplicació s'han de pujar a la carpeta corresponent.
